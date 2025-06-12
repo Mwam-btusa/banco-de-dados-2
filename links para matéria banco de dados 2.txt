@@ -1,0 +1,9 @@
+links para matéria banco de dados 2
+
+https://dev.mysql.com/doc/refman/8.4/en/mysql.html
+
+
+https://dev.mysql.com/doc/refman/8.4/en/mysql.html
+
+
+http://galileu.coltec.ufmg.br/fantini/hp/CursoBD/Curso/Mysql02_iniciando_BD.php
